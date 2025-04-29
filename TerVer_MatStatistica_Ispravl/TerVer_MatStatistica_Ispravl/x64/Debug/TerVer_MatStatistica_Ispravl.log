@@ -1,0 +1,4 @@
+﻿  tervermatst.cpp
+C:\Users\777\Desktop\y-00-main\TerVer_MatStatistica_Ispravl\TerVer_MatStatistica_Ispravl\tervermatst.cpp(121,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\777\Desktop\y-00-main\TerVer_MatStatistica_Ispravl\TerVer_MatStatistica_Ispravl\tervermatst.cpp(121,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  TerVer_MatStatistica_Ispravl.vcxproj -> C:\Users\777\Desktop\y-00-main\TerVer_MatStatistica_Ispravl\x64\Debug\TerVer_MatStatistica_Ispravl.exe
