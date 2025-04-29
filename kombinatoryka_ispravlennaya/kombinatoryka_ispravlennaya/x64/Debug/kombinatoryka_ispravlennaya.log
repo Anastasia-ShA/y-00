@@ -1,5 +1,0 @@
-﻿  func1.cpp
-  kombi.cpp
-D:\For c++\kombinatoryka_ispravlennaya\kombinatoryka_ispravlennaya\kombi.cpp(106,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  Создание кода...
-  kombinatoryka_ispravlennaya.vcxproj -> D:\For c++\kombinatoryka_ispravlennaya\x64\Debug\kombinatoryka_ispravlennaya.exe
