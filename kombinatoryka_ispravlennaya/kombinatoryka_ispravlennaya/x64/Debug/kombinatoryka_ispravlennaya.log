@@ -1,0 +1,3 @@
+﻿  kombi.cpp
+C:\Users\777\Desktop\y-00-main\kombinatoryka_ispravlennaya\kombinatoryka_ispravlennaya\kombi.cpp(115,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  kombinatoryka_ispravlennaya.vcxproj -> C:\Users\777\Desktop\y-00-main\kombinatoryka_ispravlennaya\x64\Debug\kombinatoryka_ispravlennaya.exe
